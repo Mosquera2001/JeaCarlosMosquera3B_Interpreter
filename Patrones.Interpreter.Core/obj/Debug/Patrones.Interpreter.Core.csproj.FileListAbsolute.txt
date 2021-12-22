@@ -1,0 +1,6 @@
+C:\Users\Windows 10\Downloads\patr-n-interpreter-en-c-sharp-master\Patrones.Interpreter.Core\bin\Debug\Patrones.Interpreter.Core.dll
+C:\Users\Windows 10\Downloads\patr-n-interpreter-en-c-sharp-master\Patrones.Interpreter.Core\bin\Debug\Patrones.Interpreter.Core.pdb
+C:\Users\Windows 10\Downloads\patr-n-interpreter-en-c-sharp-master\Patrones.Interpreter.Core\obj\Debug\Patrones.Interpreter.Core.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Downloads\patr-n-interpreter-en-c-sharp-master\Patrones.Interpreter.Core\obj\Debug\Patrones.Interpreter.Core.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\patr-n-interpreter-en-c-sharp-master\Patrones.Interpreter.Core\obj\Debug\Patrones.Interpreter.Core.dll
+C:\Users\Windows 10\Downloads\patr-n-interpreter-en-c-sharp-master\Patrones.Interpreter.Core\obj\Debug\Patrones.Interpreter.Core.pdb
